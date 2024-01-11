@@ -1,0 +1,18 @@
+Des Moines,Iowa City
+Omaha,Des Moines
+Omaha,Sioux City
+Minneapolis,Sioux City
+Iowa City,Madison
+Madison,Minneapolis
+Madison,Chicago
+Chicago,Iowa City
+Chicago,St Louis
+St Louis,Iowa City
+St Loius,Kansas City
+Des Moines,St Louis
+Omaha,Kansas City
+Des Moines,Sioux City
+Des Moines,Minneapolis
+Madison,St Louis
+Iowa City,Minneapolis
+Chicago,Kansas City
